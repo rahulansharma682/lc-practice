@@ -15,4 +15,3 @@ class Solution(object):
                 i1 += 1
             else:
                 i2 -= 1
-        return []
