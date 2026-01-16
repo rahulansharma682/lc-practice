@@ -18,11 +18,3 @@ class Solution(object):
             mLen = max(mLen, r - l + 1)
         
         return mLen
-            
-
-        
-
-        
-
-         
-        
